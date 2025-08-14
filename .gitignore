@@ -1,0 +1,19 @@
+# Config & credentials
+config/
+koneksi.php
+
+# Vendor composer (kalau pakai)
+vendor/
+
+# Folder runtime atau cache
+*.log
+tmp/
+cache/
+
+# Environment variables
+.env
+
+# Sistem OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
